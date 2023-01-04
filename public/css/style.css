@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header-subcontainer {
+  display: flex;
+  gap: 10px;
+}
+
+#logo {
+  width: 100px;
+  height: 100px;
+}
+
+img {
+  width: 25%;
+}
